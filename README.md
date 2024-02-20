@@ -1,16 +1,22 @@
-# guide
+# Universal Recycling Guide App
 
-A new Flutter project.
+This Flutter application serves as a Universal Recycling Guide, providing object recognition capabilities through two different models: one using Google ML Kit and another using TFLite and Teachables.com.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Object recognition using Google ML Kit.
+- Object recognition using TFLite and Teachables.com.
+- User-friendly interface for identifying recyclable objects.
+- Educational content on recycling and waste management.
 
-A few resources to get you started if this is your first Flutter project:
+Contributing
+ Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+License
+ This project is licensed under the MIT License.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Acknowledgments
+ Flutter
+ Google ML Kit
+ TFLite
+ Teachables.com
