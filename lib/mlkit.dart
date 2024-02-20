@@ -26,7 +26,6 @@ class _MlkitState extends State<Mlkit> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
 
       body: Stack(
         children: <Widget>[
